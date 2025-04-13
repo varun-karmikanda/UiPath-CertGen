@@ -1,0 +1,7 @@
+# UiPath user-specific and temp files
+*.screenshots/
+*.local/
+*.tmp
+*.cache
+*.user
+.project.settings/
